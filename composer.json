@@ -1,0 +1,8 @@
+{
+    "require": {
+        "PHP":">=7.0",
+        "jaeger/phpquery-single": "^0.9.9",
+        "jaeger/querylist": "^4.0",
+        "joetannenbaum/alfred-workflow": "^0.1.1"
+    }
+}
